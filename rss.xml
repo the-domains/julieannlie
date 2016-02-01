@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Julie AnnLie - fotograf og filmskaber]]></title>
+        <description><![CDATA[Julie AnnLie - fotograf og filmskaber]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 01 Feb 2016 21:59:04 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Julie Ann-Lie]]></title>
+            <description><![CDATA[<article><h1>Julie Ann-Lie</h1><p>The girl with the tea-cup</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/12d81ca0eb3481560fa8284b98b4aae680dd2e7c.jpg"></article>]]></description>
+            <link>undefineddc6da7e3-e1b7-437a-b356-ba0deb738321/index.html</link>
+            <guid isPermaLink="false">dc6da7e3-e1b7-437a-b356-ba0deb738321</guid>
+            <pubDate>Mon, 01 Feb 2016 21:29:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
