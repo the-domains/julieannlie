@@ -1,0 +1,28 @@
+name: Julie Annlie
+favicon: null
+layout_spectrum: 0.5344768057111651
+typography_spectrum: 0.41322793927975
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9777714954689145
+  lightness: 0.8688638166058809
+  saturation: 0.7816108353435993
+  rhythmicContrast: 0.43645467585884035
+purpose: []
